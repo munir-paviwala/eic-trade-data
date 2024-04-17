@@ -1,4 +1,4 @@
-# East India Company Trade Data (1660-1860)
+# East India Company Trade Data (1660-1834)
 
 This repository stores the data used in Digital visualisation of the British East India Company's trading activities. 
 The data is compiled from the historical sources which are available at [Citations Page](https://github.com/munir-paviwala/eic-trade-data/blob/main/CITATION.cff).
