@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Munirmahedi"
+  given-names: "Paviwala"
+  orcid: "https://orcid.org/0000-0001-7329-4124"
+title: "East India Company Trade Data (1660-1860)"
+version: 1.0.0
+date-released: 2024-04-17
+url: "https://github.com/munir-paviwala/eic-trade-data"
