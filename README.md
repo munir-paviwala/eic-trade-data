@@ -18,6 +18,30 @@ Here is the link to the [Bowen's dataset](https://resources.amdigital.co.uk/eic/
 
 I have cleaned the data for [K. N. Chaudhari](https://docs.google.com/spreadsheets/d/1hTDQB8CjsGwJyRuEdWOesOBuucD2lBb- ).
 
+The Commodities listed in the Visualisation are:
+
+    Black Pepper
+
+    Chinaware
+
+    Coffee
+
+    Lead
+
+    New Draperies
+
+    Saltpetre
+
+    Tea
+
+    Broadcloth: Broadcloth is a dense, plain woollen cloth, woven wider than its intended finished width and then reduced in width by heavy milling, resulting in a dense cloth which is highly durable and weather-resistant.
+    Textiles: Company's commerce journals itemise the pieces of textile imported from India, and at times well over one hundred different types of cotton cloth were listed in the invoices during any one year. These lists are long and often inconsistent in terms of presentation and spelling, which make it very difficult to assemble a detailed and manageable breakdown of the cotton textile imports.
+
+    Treasure: Often Silver and Bronze, was used to pay for the Company's purchases. It was procured by the Company from the brokers and agents, who had procured it in Cadiz, Lisbon and Amsterdam
+
+    General Merchandise: Aggregate of the invoice value of the miscellaneous commodities. Often includes: spices, drugs, pepper, cotton, indigo, saltpeter. Depending on the source and years, these keep changing.
+
+​
 
 # Note on Data Merging for replication  
 
